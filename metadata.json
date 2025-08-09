@@ -1,0 +1,8 @@
+{
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "name": "Talker's Cave",
+  "description": "A conversational game to practice speaking skills in various scenarios.",
+  "prompt": ""
+}
